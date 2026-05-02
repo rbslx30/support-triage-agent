@@ -1,0 +1,6 @@
+AppData/
+Documents/
+Videos/
+*.log
+*.pyc
+__pycache__/

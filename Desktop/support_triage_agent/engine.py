@@ -10,8 +10,10 @@ from typing import Optional
 import requests
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
-BASE     = Path(__file__).parent.parent
-CORPUS   = BASE / "data" / "corpus"
+BASE = Path(__file__).resolve().parent
+
+CORPUS = Path("data")
+
 LOG_FILE = BASE / "logs" / "log.txt"
 OUT_FILE = BASE / "output" / "output.csv"
 
