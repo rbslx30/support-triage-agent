@@ -1,0 +1,72 @@
+HackerRank Tests:
+Tests remain active indefinitely unless a start and end time are set. If expiration is set, candidates cannot access the test after the end time.
+
+Adding Extra Time:
+To add extra time for candidates:
+Go to Tests → Candidates tab → Select candidate → Add Time Accommodation → Save.
+
+Reinviting Candidates:
+You can reinvite candidates from the Candidates section after modifying their test settings.
+
+Test Variants:
+Variants allow customizing a test for different roles. They reduce maintenance but require at least two variants to function.
+
+Account Deletion:
+To delete a HackerRank account created with Google login, first set a password using "Forgot Password", then go to settings and delete the account.
+
+Interview Issues:
+If interviews disconnect due to inactivity, session timeouts may be causing the issue. Adjust inactivity settings if available.
+
+Platform Issues:
+If the platform is not working or submissions fail, it may be due to a temporary outage or system issue.
+
+User Management:
+To remove a user or interviewer, go to account settings or team management section and remove the user.
+
+Subscription:
+Subscription-related requests (pause, billing) require contacting support.
+
+Certificates:
+If certificate details are incorrect, contact support for corrections.
+
+---
+
+Claude Privacy:
+You can delete a conversation by opening it and selecting the delete option from the menu.
+
+Data Usage:
+Claude may use data to improve models depending on settings. Users can manage data preferences in account settings.
+
+Workspace Access:
+If access is removed from a workspace, only admins can restore access.
+
+Bug Reporting:
+Security vulnerabilities should be reported through official support channels.
+
+Service Failure:
+If Claude is not responding, it may be due to temporary service issues.
+
+---
+
+Visa Card Support:
+If your Visa card is lost or stolen, report it immediately to your issuing bank or Visa support.
+
+Fraud Handling:
+Unauthorized transactions must be reported immediately for investigation.
+
+Charge Disputes:
+For incorrect charges, contact your bank or card issuer to initiate a dispute.
+
+Traveller’s Cheques:
+Report stolen cheques to the issuer immediately with details like serial number and purchase info.
+
+Emergency Help:
+Visa provides global assistance for lost cards, including blocking and replacement.
+
+Minimum Spend:
+Some merchants enforce minimum spend limits; this is set by the merchant, not Visa.
+
+---
+
+Out of Scope:
+If a query is unrelated (e.g., movies, general knowledge), respond that it is outside the scope of the system.
